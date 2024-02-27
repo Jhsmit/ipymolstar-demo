@@ -6,6 +6,8 @@
 ➡️ **https://jhsmit.github.io/ipymolstar-demo**
 
 
+NOTE: somethings some functionality does not work in JupyterLite. Coloring by residue number typically does not (but works in local jupyter lab / VS code)
+
 ## Requirements
 
 JupyterLite is being tested against modern web browsers:
