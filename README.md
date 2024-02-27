@@ -3,6 +3,8 @@
 
 ## ✨ Try it in your browser ✨
 
+Try the [ipymolstar](https://github.com/Jhsmit/ipymolstar) anywidget in jupyter lite.
+
 ➡️ **https://jhsmit.github.io/ipymolstar-demo**
 
 
