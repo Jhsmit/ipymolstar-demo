@@ -8,7 +8,7 @@ Try the [ipymolstar](https://github.com/Jhsmit/ipymolstar) anywidget in jupyter 
 ➡️ **https://jhsmit.github.io/ipymolstar-demo**
 
 
-NOTE: somethings some functionality does not work in JupyterLite. Coloring by residue number typically does not (but works in local jupyter lab / VS code)
+NOTE: sometimes some functionality does not work in JupyterLite. Coloring by residue number typically does not (but works in local jupyter lab / VS code)
 
 ## Requirements
 
